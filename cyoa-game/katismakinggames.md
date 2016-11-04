@@ -1,4 +1,4 @@
-"You open to see Kat, who is making  
+"You open the fridge, only to see Kat, who is making  
 a game. She explains that she has  
 a deadline to complete, and complains about  
 not being able to finish it in time. Do  
