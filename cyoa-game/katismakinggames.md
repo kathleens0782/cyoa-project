@@ -5,4 +5,6 @@ not being able to finish it in time. Do
 you help her?"
 
 [Sure](yourenice.md)
+---
 [Nah](katsaweirdo.md)
+---

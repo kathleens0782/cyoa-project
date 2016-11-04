@@ -3,4 +3,6 @@ that your pretty hungry. You want to
 get something in the fridge."
 
 [Open the fridge](katismakinggames.md)
+---
 [Don't bother](livingroom.md)
+---
