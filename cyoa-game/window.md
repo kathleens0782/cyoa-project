@@ -6,4 +6,4 @@ that window you know. Anyways,
 you are then transported back  
 to the bed..."
 
-[Go back](../beginning.md)
+[Go back](beginning.md)
