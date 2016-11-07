@@ -6,3 +6,4 @@ be bothered with searching the rest of the house."
 [Go to the right](right.md)
 ---
 [Menu](../README.md)
+---
