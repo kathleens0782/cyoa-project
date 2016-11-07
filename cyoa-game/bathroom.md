@@ -6,3 +6,4 @@ You are faced with two corridors. Which one will you walk down?"
 ---
 [Left](left.md)
 ---
+[Menu](../README.md)

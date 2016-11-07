@@ -10,5 +10,5 @@ could use a nap."
 
 [Start Over](beginning.md)  
 ---
-[Menu](../cyoa-project)
+[Menu](../README.md)
 ---
