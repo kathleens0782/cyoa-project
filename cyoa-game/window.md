@@ -8,5 +8,5 @@ to the bed..."
 
 [Go back](beginning.md)
 ---
-[Menu](../cyoa-project)
+[Menu](../README.md)
 ---

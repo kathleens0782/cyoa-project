@@ -4,4 +4,5 @@ you in the TV! You've had better days...
 
 [Start Over](beginning.md)
 ---
-[Menu]()
+[Menu](../README.md)
+---
