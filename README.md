@@ -1,4 +1,6 @@
- The purpose of this project was to create a choose your own adventure story and have the user decide what happens as they progress. We had to create the actual story, link files, and save it to GitHub.
+ The purpose of this project was to create a choose your own adventure story  
+ and have the user decide what happens as they progress. 
+ We had to create the actual story, link files, and save it to GitHub.
  
  [Start Here!](https://github.com/kathleens0782/cyoa-project/blob/master/cyoa-game/beginning.md)
  
