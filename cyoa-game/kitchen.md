@@ -7,3 +7,4 @@ get something in the fridge."
 [Don't bother](livingroom.md)
 ---
 [Menu](../README.md)
+---
